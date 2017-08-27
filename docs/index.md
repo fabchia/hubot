@@ -45,7 +45,7 @@ Once you've got your bot set up as you like, you can run your hubot with the run
 copy-and-paste your token in!):
 
 ```bash
-HUBOT_SLACK_TOKEN=xoxb-YOUR-TOKEN-HERE ./bin/hubot --adapter slack
+HUBOT_SLACK_TOKEN=xoxb-231365698913-CO2XrmEAdadSSvnTj7a6JLNc ./bin/hubot --adapter slack
 ```
 
 ## Getting Help
